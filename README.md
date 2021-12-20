@@ -14,7 +14,7 @@ These thumbnails likely exist in order to drive traffic to the website. Please p
 
 # Requirements #
 
-You will need [libxml](https://www.php.net/manual/en/book.libxml.php) installed to work. This is isntalled/enabled by default in most php versions.
+You will need [libxml](https://www.php.net/manual/en/book.libxml.php) installed to work. This is installed/enabled by default in most php versions.
 
 # Changelog #
 
