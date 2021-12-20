@@ -6,7 +6,7 @@ It replaces the thumbnail image previews with the actual comic, including the al
 
 Some of the images are very large. If you find them too small, you may want to set the "Content width" option in the Display options to a larger setting.
 
-To install, simply place the ~~xExtension-Stonetoss~~ directory in the FreshRSS ~~./extensions~~ directory on your server and enable it in the extension panel.
+To install, simply place the `xExtension-Stonetoss` directory in the FreshRSS `./extensions` directory on your server and enable it in the extension panel.
 
 # Fair Play #
 
