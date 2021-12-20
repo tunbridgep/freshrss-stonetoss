@@ -1,0 +1,8 @@
+{
+	"name": "StoneToss embed comic",
+	"author": "Paul Tunbridge",
+	"description": "Embed the comics from StoneToss into the article",
+	"version": "0.1",
+	"entrypoint": "Stonetoss",
+	"type": "system"
+}
