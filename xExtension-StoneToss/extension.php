@@ -118,6 +118,16 @@ class StonetossExtension extends Minz_Extension
         return $return;
     }
 
+
+    /*
+     * I don't know why but Stonetoss seems to have bad UTF-8 character encoding
+     * This fixes it.
+     */
+    protected function fixUTF8(string $input)
+    {
+        $output = str_replace("â€œ",'“',$input);
+    }
+
     /**
      * Embed the comic image into the entry, if the feed is from Stonetoss
      * AND the image can be found in the origin sites content.
