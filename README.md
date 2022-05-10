@@ -16,6 +16,10 @@ These thumbnails likely exist in order to drive traffic to the website. Please p
 
 You will need [libxml](https://www.php.net/manual/en/book.libxml.php) installed to work. This is installed/enabled by default in most php versions.
 
+# Example Images
+
+![A preview](preview.png)
+
 # Changelog #
 
 0.1
